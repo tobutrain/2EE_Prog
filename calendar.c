@@ -2,7 +2,6 @@
 #include<stdlib.h>
 
 int main(void){
-
     while(1) {
         system("cls"); //コンソールの画面をクリアする
     
@@ -84,6 +83,4 @@ int main(void){
 
     }
     return 0;
-
-    
 }
